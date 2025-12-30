@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="src/assets/images/logo.png" alt="ThinkInk Logo" width="200"/>
+  <img src="src/assets/images/ThinkInk-icon.png" alt="ThinkInk Logo" width="200"/>
 </p>
 
 <h1 align="center">ThinkInk Frontend</h1>
